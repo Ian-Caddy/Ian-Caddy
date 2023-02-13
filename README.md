@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Ian! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- Active Directory Home Lab
+- Hello World Project
+
+<h2> Certifications:</h2>
+Comptia Network+ (In progress)
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[linkedin]: https://www.linkedin.com/in/ian-caddy-8b5877170/
 
 <!--
-**Ian-Caddy/Ian-Caddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
